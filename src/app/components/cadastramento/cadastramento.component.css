@@ -1,0 +1,17 @@
+.titulo_principal{
+    position: absolute;
+    top: 100px;
+    right: 14%;
+    font-size: 60px;
+  }
+
+
+  .form_cadastramento{
+    position: absolute;
+    left: 100vh;
+    top: 35vh;
+  }
+
+  .form_cadastramento form input{
+    margin-bottom: 20px;
+  }
