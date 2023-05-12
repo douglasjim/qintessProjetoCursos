@@ -12,3 +12,9 @@
 .fraseEmail{
   color: red;
 }
+
+.frases{
+  position: absolute;
+  top: 250px;
+  right: 13%;
+}

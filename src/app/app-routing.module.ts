@@ -19,6 +19,12 @@ const routes: Routes = [
   { path: 'login', component: LoginComponent },
   { path: 'areaAluno', component: AreaDoAlunoComponent },
   { path: 'cadastramento', component: CadastramentoComponent },
+  { path: 'cadastramentoSucesso', component: CadastramentoComSucessoComponent },
+  { path: 'cursos', component: CursosComponent },
+  { path: 'faq', component: FaqComponent },
+  { path: 'politica', component: PoliticaDeSegurancaComponent },
+  { path: 'portalAprendiz', component: PortalAprendizComponent },
+  { path: 'sobrePortal', component: SobreOPortalComponent  },
 ];
 
 @NgModule({
