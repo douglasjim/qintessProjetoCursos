@@ -57,10 +57,41 @@ nav {
     text-decoration: underline;
   }
 
-  .botao {
+  /* .button{
+    padding: 10px 30px 10px 30px;
+    background-color: #87CEEB;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    color: white;
+    font-size: 15px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    margin-right: 120px;
+    text-decoration: none;
+  } */
+
+
+.button_logoff{
+    padding: 10px 30px 10px 30px;
+    background-color: #87CEEB;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    color: white;
+    font-size: 15px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    margin-right: 120px;
+    text-decoration: none;
     position: absolute;
-    top: 650px;
-    right: -30px;
+    left: 300px;
+    bottom: -140px;
+    width: 76px;
+}
+
+  /* .botao {
+    position: absolute;
+    left: 360px;
+    bottom: -180px;
     transform: translate(-50%, -50%);
     padding: 12px 24px;
     background-color: rgba(0,0,0,0);
@@ -68,10 +99,10 @@ nav {
     text-align: center;
     border-radius: 10px;
     cursor: pointer;
-    width: 120px;
-  }
+    width: 130px;
+  } */
 
-  .botao:hover {
+  .button_logoff:hover {
     background-color: #0056b3;
   }
 

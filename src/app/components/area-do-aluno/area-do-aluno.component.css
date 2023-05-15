@@ -53,4 +53,22 @@
     right: 70px;
   }
 
+  .retomar{
+    position: absolute;
+    top: 500px;
+    right: 385px;
+  }
+
+  .button{
+    padding: 10px 30px 10px 30px;
+    background-color: #87CEEB;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    color: white;
+    font-size: 15px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    margin-right: 120px;
+    text-decoration: none;
+  }
 
